@@ -14,7 +14,7 @@ The game is powered by a Solidity smart contract that records player moves and k
 - `move(uint256 points)` – Increases the player's score by the given points.
 - `getScore(address player) view` – Returns the player's current score.
 
-## 📥 Installation & Deployment
+## 📥 Installation & Deployment 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) & [Hardhat](https://hardhat.org/)
 - Ethereum testnet (e.g., Sepolia) & Metamask wallet
