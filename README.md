@@ -7,7 +7,7 @@
 - 🏆 **On-chain high score** – Compete for the best score, stored on the Ethereum network.
 - 🎉 **Events & rewards** – Emits events for each move and high score updates.
 
-## 🔧 Smart Contract
+## 🔧 Smart Contract 
 The game is powered by a Solidity smart contract that records player moves and keeps track of the highest score.
 
 ### 📜 Contract Functions
