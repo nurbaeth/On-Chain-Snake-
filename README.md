@@ -12,7 +12,7 @@ The game is powered by a Solidity smart contract that records player moves and k
 
 ### 📜 Contract Functions
 - `move(uint256 points)` – Increases the player's score by the given points.
-- `getScore(address player) view` – Returns the player's current score.
+- `getScore(address player) view` – Returns the player's current score. 
 
 ## 📥 Installation & Deployment  
 ### Prerequisites
