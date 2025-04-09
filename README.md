@@ -17,7 +17,7 @@ The game is powered by a Solidity smart contract that records player moves and k
 ## 📥 Installation & Deployment   
 ### Prerequisites
 - [Node.js](https://nodejs.org/) & [Hardhat](https://hardhat.org/)
-- Ethereum testnet (e.g., Sepolia) & Metamask wallet
+- Ethereum testnet (e.g., Sepolia) & Metamask wallet 
 
 ### Setup
 ```bash
